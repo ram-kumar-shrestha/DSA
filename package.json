@@ -1,0 +1,22 @@
+{
+  "name": "dsa-practice",
+  "version": "1.0.0",
+  "description": "DSA Practice Workspace",
+  "main": "runner.js",
+  "scripts": {
+    "start": "node runner.js",
+    "build": "tsc"
+  },
+  "keywords": [
+    "dsa",
+    "algorithms",
+    "data-structures"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
